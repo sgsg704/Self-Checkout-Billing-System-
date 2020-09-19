@@ -1,0 +1,26 @@
+01,Denizen from LEVIS women grey melange printed sweatshirt,10323721,clothing,1119,https://drive.google.com/file/d/1KdbNXWDl9CAydxFAeXle0DK51UGIb6NB/view?usp=sharing
+02,W women green & white printed A-Line kurta,8429989,clothing,1499,https://drive.google.com/file/d/1KeXPU4vdO9kSKiZ3rYupN-bwrHx6lEiO/view?usp=sharing
+03,H&M Men black and beige hooded top,11407912,clothing,1499,https://drive.google.com/file/d/1KcN5Lqiss_wNREKw9mJ4svvY5VubAllb/view?usp=sharing
+04,ONLY women blck flared high-rise clean look jeans,10778036,clothing,1649,https://drive.google.com/file/d/1KZHC3THPu9Novkg1dUQw3TevLMhuqLrO/view?usp=sharing
+05,DUKE men blue slim fit mid-rise clean look jeans,7673263,clothing,1046,https://drive.google.com/file/d/1K_acP52J1oYX8iIJRtSfsHrRyUCccAgE/view?usp=sharing
+06,TRUFFLE COLLECTION women black solid heeled boots,7620930,footwear,2694,https://drive.google.com/file/d/1KZtm29H_LHV7BjVF9A-thXyGT_r_sprx/view?usp=sharing
+07,CHARLES & KEITH women black solid sandals,12305800,footwear,4999,https://drive.google.com/file/d/1KVZWN8jngvSOQJJsFzISxpBDAhqlscZG/view?usp=sharing
+08,PELLE ALBERO women brown colourblocked leather wedges,12266788,footwear,1849,https://drive.google.com/file/d/1KVEobzIO05U_UbXs7HWHZgqPeq9Y6vzC/view?usp=sharing
+19,NIKE men grey air vibenna leather sneakers,10714256,footwear,4091,https://drive.google.com/file/d/1KZDrcfNHrDMJgt4gqSTQxZaOyIWa3ZaD/view?usp=sharing
+10,HUSH PUPPIES men black leather sandals,12435112,footwear,2999,https://drive.google.com/file/d/1KQmM1NfBbBKubRERcIIYYKK4Ty1C4K0z/view?usp=sharing
+11,THE BODY SHOP unisex drops of light face brightening serum,1777426,beauty & personal care,2495,https://drive.google.com/file/d/1KIVHydl5mbR96rLtSyr01inqHl2oY_ZI/view?usp=sharing
+12,CLINIQUE unisex derm pro for troubled skin anti-blemish solutions skin care set,11991960,beauty & personal care,2900,https://drive.google.com/file/d/1K9XnuRyXbqYvHUjYlAe4yOSxb0CVl0PQ/view?usp=sharing
+13,CALVIN KLEIN obsessed maan EDT perfume,2292688,beauty & personal care,3875,https://drive.google.com/file/d/1KEgF6rK2PYoJrn-C5YGrgQJeE5-O4WbE/view?usp=sharing
+14,BOBBI BROWN crushed liquid lip colour-smoothie move,9588481,beauty & personal care,1900,https://drive.google.com/file/d/1KAZLQyPdBd0ZgtP_Z9DUt4xq5teCPTa6/view?usp=sharing
+15,M.A.C powder blush-Desert rose,9589851,beauty & personal care,2300,https://drive.google.com/file/d/1JsnlmWMYe3a_KWcf-ESXChGQr01dpPv0/view?usp=sharing
+16,FITBIT inspire black health & fitness tracker,12224806,gadgets,7999,https://drive.google.com/file/d/1K63zKyvyAOBr4Zk5sigyMJIm6iBFulJY/view?usp=sharing
+17,APPLE white 2nd Gen Airpods with charging case MV7N2HN/A,9803279,gadgets,14900,https://drive.google.com/file/d/1JrON0bsPRVFE_BJXvWO8xqr2T5S5UR6F/view?usp=sharing
+18,JBL unisex blue flip 4 JBLFLIP4BLU portable bluetooth speaker,7081836,gadgets,8249,https://drive.google.com/file/d/1JqVPCuUqi-763nYPMaF3wGz3sQEaafzt/view?usp=sharing
+19,BOAT stone 1000 14W black stereo wireless speaker with rugged IPX5 design 8H playback,2041931,gadgets,6990,https://drive.google.com/file/d/1KneoPEXFkcuPccULqtHguhUSht6uk3vn/view?usp=sharing
+20,SKAGEN women silver-toned hybrid watch SKT1205,1926495,gadgets,8956,https://drive.google.com/file/d/1JoQmDg64kj25y_XpzAc_jpMhLExGaheF/view?usp=sharing
+21,HOUZZCODE off-white & yellow set of 2 long door curtains,2281226,home & living,5114,https://drive.google.com/file/d/1JhdU7JSRE3XM_brmtdDjlDgyA3C0dAUa/view?usp=sharing
+22,ART STREET set of 2 MDF decorative wall plates,11986180,home & living,1500,https://drive.google.com/file/d/1JY1S6rzB-KpQ5BxkT4YvFg2VD3o_d-Ai/view?usp=sharing
+23,VarEesha set of 14 mustard yellow printed ceramic dinner plates & bowls,7465330,home & living,3959,https://drive.google.com/file/d/1JVmxsQuP86zx_tT-bzUsGFxJjzGiVHNl/view?usp=sharing
+24,ExclusiveLane whitewood canvas wall cloth hanger with warli hand-painting & jute dori,2228066,home & living,1700,https://drive.google.com/file/d/1JWW840J9ZSxcmDB_3u-hp3P1I9xDfUA1/view?usp=sharing
+25,PORTICO NEW YORK pink solid double bed duvet cover,10222113,home & living,6399,https://drive.google.com/file/d/1KrhwQKdSdUJslnzZ8mVNex543b6bncbt/view?usp=sharing
+
