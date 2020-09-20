@@ -96,7 +96,7 @@ d)  Budget, time resources
 
 
 
-4.   Goals and Objectives of the work?
+4. Goals and Objectives of the work?
 
 
 
@@ -106,76 +106,28 @@ a)  To create a user friendly Website
 
 b)  To add proper functionality to the website &
 integrate with database
-
-
-
 c)   To build a working prototype which can be tested with
 real-users in real time and feedback can be taken.
-
-
-
- 
-
-
-
 Ø Who is the Audience?
-
-
-
 Supermarket/grocery
 stare shoppers and shop owners.
-
-
-
 Ø What types of useable information & tools are
 available and practicals?
-
-
-
 Usable
 information: how queues billing systems in supermarkets work , how users can
 interact with a system.
-
-
-
 Ø Schedule , Resources and Budget Constraints
-
-
-
 1.     Existing resources? Are they internal or external?
-
-
-
 Developers , skills are internal 
-
-
-
-Tools are external software
-
-
-
 2.   What is the feasible budget?
-
-
-
 Costs/expenses will be required for installing systems
-in the stares also for paying developers.
-
-
+in the stares also for paying developers/
 
 3.   Time constraints that may dictate delivery of work
 items?
-
-
-
 Other engagements/projects may delay developer work.
 Customer requirement that may change over time may also delay.
-
-
-
 4.   Availability and quality of existing data?
-
-
 
 Availability of barcode details & product details.
 Quality good
